@@ -1,0 +1,29 @@
+1. keresztnev = andtal vagy vezeteknev= antal 
+2. udvozol1 = bertold and udvozol2 = marietta
+3. varos = budapest ; tantargy = történelem ; keresztnev= Judit
+
+
+van-e lehetőség az oldalakon lévő táblákban szűrésre vagy rendezésre?
+érmek mennyisége ; tömeg sürüsége ; alkoto elemek száma ; férfia/nő 
+
+c) az 1. a mo. olimpiai bajnokok listájának 
+Mit ne tegyünk soha a világhálón?
+felelötlenül böngészni 
+• Milyen oldalakra ne látogassunk el soha?
+nem biztonságos oldalakra 
+• Milyen tartalomra ne kattintsunk rá soha?
+popup linkekre 
+• Mit jelent az, hogy az interneten mindennek nyoma marad? Ez inkább jó vagy rossz?
+azt hogy a szerverek adatbázisaiban minden egyes információ eltárolodik ; 50-50 jó mert vissza lehet nyomozni adot embereket akik illegális bűnt követek el és rossz mivel sok ember felelötlen és nem tudja a következményeket
+• Mire jó az inkognitóablak vagy más néven privát ablak?
+a böngésző nem tartja meg az előzményeket és a felhasználó beállitásait 
+• Milyen adatainkat ne osszuk meg másokkal, főleg ismeretlenekkel?
+ bankszámla datok jelszavak 
+• Mennyire kell fenntartással olvasni az információkat a neten? Minden igaz? Minden átverés?
+tudnunk kell megkülömböztetni a hoax írásokat a valos tartalmuaktól 
+• Hogyan reagáljunk mások megosztására vagy a saját megosztásaink kommentjeire?
+----
+• Mennyire illik ügyelni mondandónk érthetőségére, a nyelvhelyességre és a helyesírásra?
+fontos hogy érthető legyen és ne lehyenek félreértések 
+• A csupa nagybetűs írás figyelemfelkeltő vagy hibás?
+1. figyelemfelkeltő 
